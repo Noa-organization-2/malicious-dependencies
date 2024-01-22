@@ -1,4 +1,4 @@
-# malicious-dependencies!
+# malicious-dependencies
 
 Slightly malicious dependency ([analyzer/spring-build-analyzer](analyzer)) and a demonstration project ([demo](demo)). This project is intended to highlight the issues of including untrusted dependencies in your builds.
 
